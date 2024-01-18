@@ -8,5 +8,5 @@ You can get the list of all possible variables to get from the DTSU666-H in the 
 Multiple examples :
 
 1. DTSU666H_reader : reads a modbus feed, extracts specific address information and writes it out in serial monitor.
-2. DTSU666H_recorder : reads a modbus feed, extracts specific address information, writes it out in serial monitor and writes it out in a .CSV file on a SD card to allow further analysis on Excel.
-3. DTSU666H_RTC_recorder : reads a modbus feed, extracts specific address information, writes it out in serial monitor and writes it out timestamped in a .CSV file on a SD card to allow further analysis on Excel.
+2. DTSU666H_recorder : reads a modbus feed, extracts specific address information, writes it out in serial monitor, writes it out on a LCD screen with multiple pages, and writes it out in a .CSV file on a SD card to allow further analysis on Excel.
+3. DTSU666H_RTC_recorder : reads a modbus feed, extracts specific address information, writes it out in serial monitor, writes it out on a LCD screen with multiple pages, and writes it out timestamped in a .CSV file on a SD card to allow further analysis on Excel.
