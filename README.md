@@ -10,3 +10,4 @@ Multiple examples :
 1. DTSU666H_reader : reads a modbus feed, extracts specific address information and writes it out in serial monitor.
 2. DTSU666H_recorder : reads a modbus feed, extracts specific address information, writes it out in serial monitor, writes it out on a LCD screen with multiple pages, and writes it out in a .CSV file on a SD card to allow further analysis on Excel.
 3. DTSU666H_RTC_recorder : reads a modbus feed, extracts specific address information, writes it out in serial monitor, writes it out on a LCD screen with multiple pages, and writes it out timestamped in a .CSV file on a SD card to allow further analysis on Excel.
+4. DTSU666H_RTC_recorder_monophase : same as above but on a single phase system. It is required to still use a DTSU666-H and not a DDSU666-H as I couldn't find the registers for DDSU666-H
